@@ -73,52 +73,52 @@
 
 @keyframes mobileBanner {
     0% {
-        background-image: url("https://voge.s3.ap-southeast-1.amazonaws.com/images/app/HeroImage2.jpg");
+        background-image: url("/Images/HeroImage2.jpg");
         opacity: 0;
     }
 
     5% {
-        background-image: url("https://voge.s3.ap-southeast-1.amazonaws.com/images/app/HeroImage2.jpg");
+        background-image: url("/Images/HeroImage2.jpg");
         opacity: 0.5;
     }
 
     15% {
-        background-image: url("https://voge.s3.ap-southeast-1.amazonaws.com/images/app/HeroImage2.jpg");
+        background-image: url("/Images/HeroImage2.jpg");
         opacity: 0.9;
     }
 
     46% {
-        background-image: url("https://voge.s3.ap-southeast-1.amazonaws.com/images/app/HeroImage2.jpg");
+        background-image: url("/Images/HeroImage2.jpg");
         opacity: 1;
     }
 
     50% {
-        background-image: url("https://voge.s3.ap-southeast-1.amazonaws.com/images/app/HeroImage2.jpg");
+        background-image: url("/Images/HeroImage2.jpg");
         opacity: 0;
     }
 
     51% {
-        background-image: url("https://voge.s3.ap-southeast-1.amazonaws.com/images/app/HeroImage5.jpg");
+        background-image: url("/Images/HeroImage5.jpg");
         opacity: 0;
     }
 
     55% {
-        background-image: url("https://voge.s3.ap-southeast-1.amazonaws.com/images/app/HeroImage5.jpg");
+        background-image: url("/Images/HeroImage5.jpg");
         opacity: 0.5;
     }
 
     70% {
-        background-image: url("https://voge.s3.ap-southeast-1.amazonaws.com/images/app/HeroImage5.jpg");
+        background-image: url("/Images/HeroImage5.jpg");
         opacity: 0.9;
     }
 
     96% {
-        background-image: url("https://voge.s3.ap-southeast-1.amazonaws.com/images/app/HeroImage5.jpg");
+        background-image: url("/Images/HeroImage5.jpg");
         opacity: 1;
     }
 
     100% {
-        background-image: url("https://voge.s3.ap-southeast-1.amazonaws.com/images/app/HeroImage5.jpg");
+        background-image: url("/Images/HeroImage5.jpg");
         opacity: 0;
     }
 }
@@ -129,7 +129,7 @@
     animation-iteration-count: infinite;
 
 
-    background-image: url("https://voge.s3.ap-southeast-1.amazonaws.com/images/app/HeroImage5.jpg");
+    background-image: url("/Images/HeroImage5.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -138,7 +138,7 @@
 }
 
 .background-image-notfound {
-    background-image: url("https://voge.s3.ap-southeast-1.amazonaws.com/images/app/GoldLogoBlurExtraSmall.png");
+    background-image: url("/Images/GoldLogoBlurExtraSmall.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;

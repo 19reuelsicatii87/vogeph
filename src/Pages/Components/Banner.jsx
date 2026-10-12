@@ -52,7 +52,7 @@ export default function Banner() {
 
                         <div className="carousel-item" data-bs-interval="5000">
                             <div className="background-image-banner-desktop"
-                                style={{ backgroundImage: `url(https://voge.s3.ap-southeast-1.amazonaws.com/images/app/HeroImage6.jpg)` }}>
+                                style={{ backgroundImage: `url(/Images/HeroImage6.jpg)` }}>
                                 <div className=" d-flex justify-content-start" style={{ height: "50%" }}>
                                     <div className="d-flex align-items-start mx-3 my-5">
                                         <div className="d-flex flex-column p-3">
@@ -77,7 +77,7 @@ export default function Banner() {
 
                         <div className="carousel-item" data-bs-interval="5000">
                             <div className="background-image-banner-desktop"
-                                style={{ backgroundImage: `url(https://voge.s3.ap-southeast-1.amazonaws.com/images/app/HeroImage7.jpg)` }}>
+                                style={{ backgroundImage: `url(/Images/HeroImage7.jpg)` }}>
                                 <div className=" d-flex justify-content-start" style={{ height: "50%" }}>
                                     <div className="d-flex align-items-start mx-3 my-5">
                                         <div className="d-flex flex-column p-3">
@@ -102,7 +102,7 @@ export default function Banner() {
 
                         <div className="carousel-item" data-bs-interval="5000">
                             <div className="background-image-banner-desktop"
-                                style={{ backgroundImage: `url(https://voge.s3.ap-southeast-1.amazonaws.com/images/app/HeroImage8.jpg)` }}>
+                                style={{ backgroundImage: `url(/Images/HeroImage8.jpg)` }}>
                                 <div className=" d-flex justify-content-start" style={{ height: "50%" }}>
                                     <div className="d-flex align-items-start mx-3 my-5">
                                         <div className="d-flex flex-column p-3">
