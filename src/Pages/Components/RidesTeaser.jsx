@@ -94,16 +94,20 @@ function RidesTeaser() {
                                 </div>
                             </div>
                         </div>
-                        <div className='col-lg-5 d-flex align-items-center'>
-                            <img src="/Images/Rides/ilocos/IlocosRide.jpg"
-                                className="img-fluid " alt="..." />
+                        <div className='col-lg-5 d-flex flex-column align-items-center justify-content-center gap-3'>
+                            <img src="/Images/Rides/ilocos/IlocosRide1.jpg"
+                                className="img-fluid" alt="..." />
+                            <img src="/Images/Rides/ilocos/IlocosRide2.jpg"
+                                className="img-fluid" alt="..." />
                         </div>
                     </div>
                 </div>
                 <div className='shadow-gray my-5'>
                     <div className='row p-3'>
-                        <div className='col-lg-5 d-flex align-items-center'>
-                            <img src="/Images/Rides/laguna/LagunaRide.JPG"
+                        <div className='col-lg-5 d-flex flex-column align-items-center justify-content-center gap-3'>
+                            <img src="/Images/Rides/laguna/LagunaRide1.JPG"
+                                className="img-fluid " alt="..." />
+                            <img src="/Images/Rides/laguna/LagunaRide2.jpg"
                                 className="img-fluid " alt="..." />
                         </div>
                         <div className='col-lg-7'>
