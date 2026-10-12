@@ -10,7 +10,7 @@ function VoyagersTeaser() {
                         </div>
                         <div className='col-lg-7'>
                             <div className='row'>
-                                <h3 className='color-gold mb-0'>The Voyagerss Club</h3>
+                                <h3 className='color-gold mb-0'>The Voyagers Club</h3>
                                 <p className='my-1'>Brotherhood Beyond the Road</p>
                                 <div style={{ textAlign: "justify" }}>
                                 <p className='my-3'>
@@ -23,7 +23,7 @@ function VoyagersTeaser() {
                                     In the Voyagers Club, friendship goes beyond casual conversations and weekend rides. It grows through shared experiences, mutual respect, trust, and loyalty. The miles we travel together strengthen our bond, while the challenges we overcome remind us of the value of having brothers who genuinely care.
                                     Every ride tells a different story. Some journeys take us through winding mountain roads, others lead us to beautiful destinations, and some simply give us a reason to gather and enjoy the company of fellow riders. Regardless of where the road leads, what matters most is the experience we share and the people who ride beside us.
                                     We understand that being a responsible rider is just as important as being a passionate one. We respect the road, follow safety practices, look out for fellow motorists, and represent our club with pride and integrity. Our actions reflect our values, and our conduct shows others what the Voyagers Club stands for.
-                                    As Voyagerss, we ride with purpose, respect, and a sense of belonging. We welcome the adventures that lie ahead, knowing that the greatest rewards are not always found at the destination but in the friendships we create along the way.
+                                    As Voyagers, we ride with purpose, respect, and a sense of belonging. We welcome the adventures that lie ahead, knowing that the greatest rewards are not always found at the destination but in the friendships we create along the way.
                                 </p>
                                 <p className='my-3'>
                                     The road may be long, the weather may change, and challenges may come unexpectedly. Yet, with brotherhood in our hearts and motorcycles beneath us, we continue moving forward together.
@@ -33,7 +33,7 @@ function VoyagersTeaser() {
                                     One Brotherhood. One Passion. Endless Journeys.                           
                                 </p>
                                 <p className='my-3'>
-                                    We are the <b>Voyagerss Club</b>.
+                                    We are the <b>Voyagers Club</b>.
                                 </p>
                                 </div>
 

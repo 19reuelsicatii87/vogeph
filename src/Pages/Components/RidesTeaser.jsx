@@ -33,7 +33,7 @@ function RidesTeaser() {
                                             controls
                                             autoplay
                                             poster="/Images/Rides/VoyagerLogo3.png">
-                                            <source src="/Images/Rides/bicol/BicolRide.mp4" type="video/mp4" />
+                                            <source src="https://vogeph-files.s3.ap-southeast-1.amazonaws.com/Rides/BicolRide.mp4" type="video/mp4" />
                                         </video >
                                     </div>
                                 </div>
@@ -43,7 +43,7 @@ function RidesTeaser() {
                                             controls
                                             autoplay
                                             poster="/Images/Rides/VoyagerLogo3.png">
-                                            <source src="/Images/Rides/bicol/BicolRide.mp4" type="video/mp4" />
+                                            <source src="https://vogeph-files.s3.ap-southeast-1.amazonaws.com/Rides/BicolRide.mp4" type="video/mp4" />
                                         </video >
                                     </div>
                                 </div>
@@ -78,7 +78,7 @@ function RidesTeaser() {
                                             controls
                                             autoplay
                                             poster="/Images/Rides/VoyagerLogo3.png">
-                                            <source src="/Images/Rides/ilocos/IlocosRide.mp4" type="video/mp4" />
+                                            <source src="https://vogeph-files.s3.ap-southeast-1.amazonaws.com/Rides/IlocosRide.mp4" type="video/mp4" />
                                         </video >
                                     </div>
                                 </div>
@@ -88,7 +88,7 @@ function RidesTeaser() {
                                             controls
                                             autoplay
                                             poster="/Images/Rides/VoyagerLogo3.png">
-                                            <source src="/Images/Rides/ilocos/IlocosRide.mp4" type="video/mp4" />
+                                            <source src="https://vogeph-files.s3.ap-southeast-1.amazonaws.com/Rides/IlocosRide.mp4" type="video/mp4" />
                                         </video >
                                     </div>
                                 </div>
@@ -126,7 +126,7 @@ function RidesTeaser() {
                                             controls
                                             autoplay
                                             poster="/Images/Rides/VoyagerLogo3.png">
-                                            <source src="/Images/Rides/laguna/LagunaRide.mp4" type="video/mp4" />
+                                            <source src="https://vogeph-files.s3.ap-southeast-1.amazonaws.com/Rides/LagunaRide.mp4" type="video/mp4" />
                                         </video >
                                     </div>
                                 </div>
@@ -136,7 +136,7 @@ function RidesTeaser() {
                                             controls
                                             autoplay
                                             poster="/Images/Rides/VoyagerLogo3.png">
-                                            <source src="/Images/Rides/laguna/LagunaRide.mp4" type="video/mp4" />
+                                            <source src="https://vogeph-files.s3.ap-southeast-1.amazonaws.com/Rides/LagunaRide.mp4" type="video/mp4" />
                                         </video >
                                     </div>
                                 </div>
